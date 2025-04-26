@@ -1,0 +1,12 @@
+../Core/Src/main.c:100:9:BSP_NFC0XCOMM_SendRecv	8
+../Core/Src/main.c:132:13:BSP_SPI1_IRQ_Callback	1
+../Core/Src/main.c:143:6:IDMatch	3
+../Core/Src/main.c:155:6:SpeedUp	1
+../Core/Src/main.c:169:6:SlowDown	1
+../Core/Src/main.c:188:5:main	18
+../Core/Src/main.c:363:6:SystemClock_Config	4
+../Core/Src/main.c:413:13:MX_TIM2_Init	6
+../Core/Src/main.c:471:13:MX_TIM3_Init	6
+../Core/Src/main.c:530:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:565:13:MX_GPIO_Init	1
+../Core/Src/main.c:638:6:Error_Handler	1
